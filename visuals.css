@@ -2,8 +2,14 @@ body{
 color:white;
 background-color: black;
 font-family: Georgia, "Times New Roman", serif;
-text-align: center}
+}
 
 h1{
-  padding: 100px;}
+  padding: 100px;
+  text-align: center;}
+
+p1{
+  text-align: justify;
+  padding-left:200px;
+  padding-right:200px;}
 
