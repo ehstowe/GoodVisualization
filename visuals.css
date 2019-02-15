@@ -4,6 +4,9 @@ background-color: black;
 font-family: Georgia, "Times New Roman", serif;
 }
 
+hr{
+  color: white}
+
 h1{
   padding: 100px;
   text-align: center;}
